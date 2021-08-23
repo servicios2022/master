@@ -72,9 +72,22 @@ http://lista.premiumstore.biz/aco/?USER=USUARIO|CONTRASEÑA|N|S|S
 DNS CUANDO NO ESTA BANEADA LA IP Y NO CARGA (ESPAÑA - COLOMBIA - ECUADOR)
 http://tv.pstore-tv.com:8080/
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+3 DNS OFICIALES
+
+* http://tv.streamid.tv:8080
+* http://iptv.premiumstore.biz:8080
+* http://tv.streamid.ga:8080
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-PORTAL PARA  IPTV SMARTERS EN SMART TV 
+PORTAL PARA  IPTV SMARTERS EN SMART TV LG (opcion 1)
+http://tv.streamid.tv:8080
+USUARIO: XXXXXXXX
+PASSWORD: XXXXXX
+
+PORTAL PARA  IPTV SMARTERS EN SMART TV LG (opcion 2)
 http://tv.streamid.ga:8080
 USUARIO: XXXXXXXX
 PASSWORD: XXXXXX
